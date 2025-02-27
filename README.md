@@ -1,3 +1,1 @@
-I'm Kawoto Bogale, a competitive programmer and computer science engineering graduate from 2024 at Bule Hora University.
-I have complemented my experience with various projects...
-thank you.
+Computer Science Engineering graduate from Bule Hora University, Class of 2024. Ambitious programmer! Thank you.
