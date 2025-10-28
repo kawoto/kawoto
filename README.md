@@ -1,4 +1,4 @@
-👋 Hey, I'm Kawoto Bogale
+👋 Hey, I'm Kawoto Bogale (Computer Science and Engineering)
 
 💻 Passionate IT Professional blending software development, networking, and cybersecurity — with a solid background in teaching and technical training.
 🚀 I love building secure, scalable, and human-centered digital solutions.
